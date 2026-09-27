@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A1_2201234567</string>
+    <string name="title">Lab A1 – Vòng đời Activity</string>
+    <string name="student">Trần Ngọc Thúy Vy – MSSV 241A310148</string>
+    <string name="clear">Xóa log</string>
+    <string name="crash">Gây lỗi</string>
+    <string name="finish">Thoát</string>
+</resources>
